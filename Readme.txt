@@ -25,6 +25,6 @@ How it work?
 
 
 Warning:
-There is a risk of Ban
+There is a Ban risk
 The record of the receipt of money is saved in the log
 
